@@ -11,11 +11,15 @@
 <h4 class="py-3">FLATICON</h4>
 <h4 class="py-3">SweetAlert2</h4>
 <br>
-Puedes Visualizarlo en los siguientes enlaces: 
-<h3 class="py-4">GITHUB</h3>
-<a href="https://rfbs23.github.io/repositorio/" title="Ver Proyecto rounded-3">🙂 GIT HUB</a>
+Puedes Visualizarlo en los siguientes enlaces:
 
-<h3 class="py-4">VERCEL</h3>
+<h3 class="py-4">GITHUB -repositorio</h3>
+<a href="https://rfbs23.github.io/portafolio-senati/" title="Ver Proyecto rounded-3">🙂 GITHUB</a>
+
+<h3 class="py-4">GITHUB -repositorio original</h3>
+<a href="https://rfbs23.github.io/repositorio/" title="Ver Proyecto rounded-3">🙂 GITHUB</a>
+
+<h3 class="py-4">VERCEL - repo Original</h3>
 <a href="https://rfbs-repositorio.vercel.app/" title="Ver Proyecto">🙂 VERCEL APP</a>    
 
 <h4 class="py-3">por el momento esta en mantenimiento ;)</h4>
@@ -24,8 +28,8 @@ Puedes Visualizarlo en los siguientes enlaces:
 <h4>FIGMA</h4>
 <a class="py-4" align="center"><img src="img/readme/figma.png" alt="negro" border="0" style="width: 40rem;"></a>
 
-<h1>Pronto Nueva App de Escritorio</h1>
-<h4>Preview</h4>
+<h1>Pronto App de Escritorio</h1>
+<h4>Preview utilizando NATIVEFIER y otros frameworks</h4>
 <a class="py-2" align="center"><img src="img/readme/escritorio.gif" alt="Desktop" border="0" style="width: 40rem;"></a>
 <h3><b>Realizado por:</b> Fabrizio Barrios Saavedra (RFBS19)</h3>
 <img src="img/readme/foter.jpg" width="200" alt="avatar">
